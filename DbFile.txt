@@ -1,0 +1,5 @@
+For server side 
+run the chartPoints.js file using 
+nodemon chartPoints.js 
+on 3001 port
+must run the database Xampp
